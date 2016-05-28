@@ -10,18 +10,23 @@ A Font.
 Modified from *Droid Sans Fallback*.
 
 ##Version
-20160527
+20160529
 
 ##Coverage
 - U+EBD3  (⿸疒哥) *
 - U+20895 𠢕 (⿱敖力)
 - U+21CDE 𡳞 (⿸尸粦)
+- U+22BFE 𢯾 (⿰扌冒)
+- U+24C8D 𤲍 (⿰甲夾)
+- U+25349 𥍉 (⿰目聶)
 - U+24EAA 𤺪 (⿸疒善)
 - U+25D0A 𥴊 (⿱𥫗敢)
 - U+2A04E 𪁎 (⿰肖鳥)
+- U+2B7CA 𪐞 (⿰黑乇)
 - U+2A736 𪜶 (⿰亻因)
 - U+2B77A 𫝺 (⿰扌甩)
 - U+2B77B 𫝻 (⿰扌回)
+- U+2B7CA 𫟊 (⿰⺼席)
 - U+2C9B0 𬦰 (⿰⻊百)
 
 *Private Use Area, Code Point from: [BabelStone Fonts : BabelStone Han PUA](http://www.babelstone.co.uk/Fonts/PUA.html)
