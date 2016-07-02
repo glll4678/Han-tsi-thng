@@ -1,13 +1,20 @@
-#《蕃薯湯》 Han-tsi-thng
+#《蕃薯湯》 *Han-tsî-thng*
 
 >時到時擔當，無米才煮蕃薯湯。  
 >時到時擔當，欠字才造《蕃薯湯》。
 >
->Sî kàu sî tam-tng, bô bí tsiah tsú han-tsî thng.  
->Sî kàu sî tam-tng, khiàm lī tsiah tsō *Han-tsi-thng*.
+>Sî kàu sî tam-tng, bô bí tsiah tsú han-tsî-thng.  
+>Sî kàu sî tam-tng, khiàm lī tsiah tsō *Han-tsî-thng*.
 
 A Font.  
 Modified from *Droid Sans Fallback*.
+
+##Preview
+![Han-tsi-thng](https://raw.githubusercontent.com/glll4678/Han-tsi-thng/master/Han-tsi-thng.png)
+
+##Download
+[TTF](https://github.com/glll4678/Han-tsi-thng/raw/master/Han-tsi-thng.ttf)  
+[WOFF](https://github.com/glll4678/Han-tsi-thng/raw/master/Han-tsi-thng.ttf)
 
 ##Version
 20160702
