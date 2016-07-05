@@ -11,10 +11,10 @@ Modified from Droid Sans Fallback.
 
 ##Download
 [TTF](https://github.com/glll4678/Han-tsi-thng/raw/master/Han-tsi-thng.ttf)  
-[WOFF](https://github.com/glll4678/Han-tsi-thng/raw/master/Han-tsi-thng.ttf)
+[WOFF](https://github.com/glll4678/Han-tsi-thng/raw/master/Han-tsi-thng.woff)
 
 ##Version
-20160702
+20160705
 
 ##Coverage
 - U+EBD3  (⿸疒哥) *
@@ -28,8 +28,10 @@ Modified from Droid Sans Fallback.
 - U+25D0A 𥴊 (⿱𥫗敢)
 - U+296A8 𩚨 (⿱飠丘)
 - U+2A04E 𪁎 (⿰肖鳥)
+- U+2B7CA 𫟊 (⿰⺼席)
 - U+2B7CA 𪐞 (⿰黑乇)
 - U+2A736 𪜶 (⿰亻因)
+- U+2B759 𫝙 (⿱向上)
 - U+2B77A 𫝺 (⿰扌甩)
 - U+2B77B 𫝻 (⿰扌回)
 - U+2B7CA 𫟊 (⿰⺼席)
