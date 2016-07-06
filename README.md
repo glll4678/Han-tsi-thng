@@ -14,7 +14,7 @@ Modified from Droid Sans Fallback.
 [WOFF](https://github.com/glll4678/Han-tsi-thng/raw/master/Han-tsi-thng.woff)
 
 ##Version
-20160705
+20160706
 
 ##Coverage
 - U+EBD3  (⿸疒哥) *
@@ -39,20 +39,22 @@ Modified from Droid Sans Fallback.
 
 *Private Use Area, Code Point from: [BabelStone Fonts : BabelStone Han PUA](http://www.babelstone.co.uk/Fonts/PUA.html)
 
-##License 
+##COPYRIGHT
+- Copyright © 2006 Google Corporation (Digitized data)
+- Copyright © 2008 The Android Open Source Project
+- Copyright © 2016 莊銘彥
 
-- Copyright (C) 2006 Google Corporation (Digitized data)
-- Copyright (C) 2008 The Android Open Source Project
-- Copyright (C) 2016 Tsng Bing-gan
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
+##License
+
+Licensed under the Apache License, Version 2.0 (the "License");  
+you may not use this file except in compliance with the License.  
 You may obtain a copy of the License at
   
      http://www.apache.org/licenses/LICENSE-2.0
   
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
+Unless required by applicable law or agreed to in writing, software  
+distributed under the License is distributed on an "AS IS" BASIS,  
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the License for the specific language governing permissions and  
 limitations under the License.
