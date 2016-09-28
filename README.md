@@ -39,8 +39,8 @@ Modified from [Droid Sans Fallback](https://github.com/android/platform_framewor
 - U+FAC00 󺰀 (⿰毋愛) **
 - U+FAC01 󺰁 (⿰麥方) **
 
-*Private Use Area, Code Point from: [BabelStone Fonts : BabelStone Han PUA](http://www.babelstone.co.uk/Fonts/PUA.html)  
-**Supplementary Private Use Area-A
+\*Private Use Area, Code Point from: [BabelStone Fonts : BabelStone Han PUA](http://www.babelstone.co.uk/Fonts/PUA.html)  
+\**Supplementary Private Use Area-A
 
 ##License
 
