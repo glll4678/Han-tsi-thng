@@ -1,10 +1,8 @@
 #Han-tsi-thng
 
->時到時擔當，欠字才造蕃薯湯。  
->Sî kàu sî tam-tng, khiàm jī tsiah tsō Han-tsi-thng.
+>時到時擔當，欠字才造 Han-tsi-thng。
 
-A Font.  
-Modified from [Droid Sans Fallback](https://github.com/android/platform_frameworks_base/tree/master/data/fonts).
+臺灣閩南語漢字字型，修改自 [Droid Sans Fallback](https://github.com/android/platform_frameworks_base/tree/master/data/fonts)。
 
 ##Preview
 ![Han-tsi-thng](https://raw.githubusercontent.com/glll4678/Han-tsi-thng/master/Han-tsi-thng.png)
@@ -14,10 +12,9 @@ Modified from [Droid Sans Fallback](https://github.com/android/platform_framewor
 [WOFF](https://github.com/glll4678/Han-tsi-thng/raw/master/Han-tsi-thng.woff)
 
 ##Version
-20160928
+20161003
 
 ##Coverage
-- U+EBD3  (⿸疒哥) *
 - U+20895 𠢕 (⿱敖力)
 - U+21CDE 𡳞 (⿸尸粦)
 - U+22BFE 𢯾 (⿰扌冒)
@@ -36,11 +33,11 @@ Modified from [Droid Sans Fallback](https://github.com/android/platform_framewor
 - U+2B77B 𫝻 (⿰扌回)
 - U+2B7CA 𫟊 (⿰⺼席)
 - U+2C9B0 𬦰 (⿰⻊百)
-- U+FAC00 󺰀 (⿰毋愛) **
-- U+FAC01 󺰁 (⿰麥方) **
+- U+FAC00 󺰀 (⿰毋愛) *
+- U+FAC01 󺰁 (⿰麥方) *
+- U+FF5E7  (⿸疒哥) *
 
-\*Private Use Area, Code Point from: [BabelStone Fonts : BabelStone Han PUA](http://www.babelstone.co.uk/Fonts/PUA.html)  
-\**Supplementary Private Use Area-A
+\* Supplementary Private Use Area-A
 
 ##License
 
