@@ -35,7 +35,7 @@
 - U+2C9B0 𬦰 (⿰⻊百)
 - U+FAC00 󺰀 (⿰毋愛) *
 - U+FAC01 󺰁 (⿰麥方) *
-- U+FF5E7  (⿸疒哥) *
+- U+FF5E7 󿗧 (⿸疒哥) *
 
 \* Supplementary Private Use Area-A
 
