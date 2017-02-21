@@ -68,7 +68,7 @@
 - U+FF5E7 󿗧 (⿸疒哥)**
 
 \* Private Use Area  
-\* Supplementary Private Use Area-A
+\** Supplementary Private Use Area-A
 
 ##License
 
