@@ -2,7 +2,7 @@
 
 >時到時擔當，欠字才造 Han-tsi-thng。
 
-臺灣閩南語漢字字型，修改自 [Droid Sans Fallback](https://github.com/android/platform_frameworks_base/tree/master/data/fonts)。
+臺灣閩南語漢字烏體字型。（對 [Droid Sans Fallback](https://github.com/android/platform_frameworks_base/tree/master/data/fonts) 修改）
 
 ##Preview
 ![Han-tsi-thng](https://raw.githubusercontent.com/glll4678/Han-tsi-thng/master/Han-tsi-thng.png)
